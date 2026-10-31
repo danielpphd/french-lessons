@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Test Lesson</title>
+    <link>https://podcast.danielphd.com/</link>
+    <description>Test feed for weekly French audio lessons.</description>
+    <language>en-us</language>
+    <itunes:author>Daniel</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Test Lesson</title>
+      <description>Test episode for checking playback and skip controls.</description>
+      <pubDate>Sat, 31 Oct 2026 15:10:00 +0000</pubDate>
+      <enclosure url="https://podcast.danielphd.com/Podcast-Test.m4a" length="15721899" type="audio/x-m4a"/>
+      <guid isPermaLink="false">podcast-test-m4a-2026-10-31</guid>
+    </item>
+  </channel>
+</rss>
