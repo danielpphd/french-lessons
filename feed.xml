@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Test Lesson</title>
+    <title>French Lessons</title>
     <link>https://podcast.danielphd.com/</link>
-    <description>Test feed for weekly French audio lessons.</description>
+    <description>Weekly French audio lessons.</description>
     <language>en-us</language>
     <itunes:author>Daniel</itunes:author>
     <itunes:explicit>false</itunes:explicit>
